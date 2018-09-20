@@ -10,19 +10,19 @@ The archetypes that run Eclipse JNoSQL using [CDI 2.0](https://jcp.org/en/jsr/de
 
 ### KeyValue SE
 
-`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=se-key-value  -DarchetypeVersion=0.0.6  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
+`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=se-key-value  -DarchetypeVersion=0.0.7  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
 
 ### Column Family SE
 
-`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=se-column  -DarchetypeVersion=0.0.6  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
+`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=se-column  -DarchetypeVersion=0.0.7  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
 
 ### Document SE
 
-`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=se-document  -DarchetypeVersion=0.0.6  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
+`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=se-document  -DarchetypeVersion=0.0.7  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
 
 ### Graph SE
 
-`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=se-graph  -DarchetypeVersion=0.0.6  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
+`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=se-graph  -DarchetypeVersion=0.0.7  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
 
 
 ## Java Web
@@ -36,12 +36,12 @@ The archetypes that run Eclipse JNoSQL using Java EE, Jakarta EE as [API provide
 
 ### Column Family Web
 
-`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=web-column  -DarchetypeVersion=0.0.6  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
+`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=web-column  -DarchetypeVersion=0.0.7  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
 
 ### Document Web
 
-`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=web-document  -DarchetypeVersion=0.0.6  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
+`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=web-document  -DarchetypeVersion=0.0.7  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
 
 ### Graph Web
 
-`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=web-graph  -DarchetypeVersion=0.0.6  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
+`mvn archetype:generate -DarchetypeGroupId=org.jnosql.archetype   -DarchetypeArtifactId=web-graph  -DarchetypeVersion=0.0.7  -DgroupId=<groupId>  -DartifactId=<artifactId> -Dversion=<version> -DinteractiveMode=false`
